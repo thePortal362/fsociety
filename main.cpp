@@ -28,16 +28,6 @@ void yes_no() {
     }
 }
 
-void ilovecpp() {
-    char yes;
-    std::cout << "I love typing in C Plus Plus" << std::endl;
-    std::cout << "It's so easy" << std::endl;
-    std::cout << "Instead of fucking normal C" << std::endl;
-    if (yes) {
-        std::cout << "Check this out!" << std::endl;
-    }
-}
-
 int main() {
     std::cout << "Starting..." << std::endl;
     std::cout << std::endl;
