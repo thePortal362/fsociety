@@ -1,5 +1,5 @@
 # fsociety
-Network Mapping Tool programmed in C++.
+Network Mapping Scipt programmed in C++.
 > [!WARNING]
 > Hello Skid! Only use this Script against your own WiFi and Devices.   
 ![Logo](logo.png)
@@ -14,4 +14,8 @@ Network Mapping Tool programmed in C++.
   ### 4. Run:
     ./main
 
-#### Go watch MR. Robot.
+## TODO:
+  ### 1. [ ] Add Option to scan for Local Devices (arp-scan?)
+  ### 2. [ ] ^Add Option for Syn Flood Attack on a Device (hping3?)^
+  ### 3. [ ] WiFi Deauth Attack
+  ### 4. [X] Watch Mr. Robot
